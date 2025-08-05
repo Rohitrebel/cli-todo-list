@@ -1,4 +1,4 @@
-# CLI TodoList Application
+# Simple CLI TodoList
 
 This is a simple command-line based Todo List application built using Python. It allows users to **add**, **delete**, **view**, and **persist** tasks using a plain text file (`todo.txt`).
 
